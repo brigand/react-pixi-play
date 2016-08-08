@@ -5,6 +5,8 @@ This is just [react-transform-boilerplate][rtb] with react-pixi and pixi.js, plu
 
 [rtb]: https://github.com/gaearon/react-transform-boilerplate
 
+## Note: the below is copied from react-transform-boilerplate
+
 A *new* Webpack boilerplate with:
 
 * hot reloading React components;
